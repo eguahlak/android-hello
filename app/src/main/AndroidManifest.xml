@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".TheCalledActivity" >
         </activity>
+        <activity android:name=".FragmentedActivity" >
+        </activity>
     </application>
 
 </manifest>
